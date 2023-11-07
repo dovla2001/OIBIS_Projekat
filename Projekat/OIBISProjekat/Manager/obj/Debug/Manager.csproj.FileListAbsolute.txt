@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.pdb
