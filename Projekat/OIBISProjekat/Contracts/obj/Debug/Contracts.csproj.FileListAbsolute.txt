@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
