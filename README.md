@@ -3,7 +3,7 @@ Uputstvo za sertifikate:
 -wcfservice se zove PrimarnaAGS
 -wcfclient se zove SekundarnaAGS
 
-Clanovi tima:
+Clanovi tima:  
 PR100/2020 Lazar Jovanovic  
 PR108/2020 Vladimir Mandic  
 PR133/2020 Ivkovic Luka  
