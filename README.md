@@ -4,8 +4,8 @@ Uputstvo za sertifikate:
 -wcfclient se zove SekundarnaAGS
 
 Clanovi tima:
-PR100/2020 Lazar Jovanovic
-PR108/2020 Vladimir Mandic
-PR133/2020 Ivkovic Luka
-PR135/2020 Milanovic Petar
+PR100/2020 Lazar Jovanovic  
+PR108/2020 Vladimir Mandic  
+PR133/2020 Ivkovic Luka  
+PR135/2020 Milanovic Petar  
 
